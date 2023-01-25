@@ -8,7 +8,7 @@ With recent startup experience, I have learned to juggle and generalise as both 
 
 * 🌍  I'm based in Wellington, NZ
 * ✉️  You can contact me at [miah.stewart@outlook.com](mailto:miah.stewart@outlook.com)
-* 🧠  I'm learning Rails, Stable Diffusion, More Python
+* 🧠  I'm learning more Python
 
 ### Skills
 
