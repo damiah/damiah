@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miah Stewart
 ====================================================================================================================================
 
-Data Scientist / Engineer
+Senior Data Engineer
 -------------------------
 
 With recent startup experience, I have learned to juggle and generalise as both a Machine Learning specialist as well as a Data Engineer in the analytics space. I have a passion for solving technical problems related to data and data pipelining.
 
 * 🌍  I'm based in Wellington, NZ
 * ✉️  You can contact me at [miah.stewart@outlook.com](mailto:miah.stewart@outlook.com)
-* 🧠  I'm learning more Spark (Databricks) at Mercury
+* 🧠  I'm working at a company called [EngineRoom](https://www.engineroom.com.au/).
 
 ### Skills
 
@@ -29,5 +29,4 @@ With recent startup experience, I have learned to juggle and generalise as both 
 <p align="left"> <a href="https://www.github.com/damiah/damiah.github.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miah-stewart-230b72123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@miahstew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Projects
-
-2019 - amazon.com album recommender system using collaborative filtering / embeddings. https://medium.com/@miahstew/amazon-album-recommendation-with-pytorch-765648288f54
+Look at my medium posts: https://medium.com/@miahstew
